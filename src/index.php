@@ -10,7 +10,6 @@ declare(strict_types=1);
     <head>
         <meta charset="utf-8">
         <title>Mini CRUD (Parte 1)</title>
-        <link rel="stylesheet" href="src/assets/css/styles.css">
     </head>
     <body>
         <h1>
