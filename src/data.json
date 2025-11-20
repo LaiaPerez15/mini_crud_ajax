@@ -1,3 +1,10 @@
 [
-    
+    {
+        "nombre": "manolo",
+        "email": "manolo@gamil.com"
+    },
+    {
+        "nombre": "Laia",
+        "email": "laia@gmail.com"
+    }
 ]
